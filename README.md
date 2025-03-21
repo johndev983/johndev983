@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**johndev983/johndev983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy John Gil! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollador de software con 3 años de experiencia en la creación de aplicaciones web y móviles. Especializado en el desarrollo frontend con React, Next.js y el desarrollo backend con Node.js y NestJS. Me encanta trabajar en proyectos desafiantes y colaborar con otros desarrolladores para crear soluciones innovadoras.
+
+## 🛠 Skills
+
+JavaScript, React, React Native, Next.js, Node.js, NestJS, TypeScript PHP, HTML, CSS, Git, Bases de datos SQL, Metodologías ágiles
+
+
+## 🚀 Proyects
+
+* [Nombre del proyecto 1](URL del proyecto 1)
+* [Nombre del proyecto 2](URL del proyecto 2)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/john-gil-757545216)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
