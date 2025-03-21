@@ -12,7 +12,7 @@ JavaScript, React, React Native, Next.js, Node.js, NestJS, TypeScript PHP, HTML,
 ## 🚀 Proyects
 
 * [gif-expert-app](https://gif-expert-app-liart.vercel.app/)
-* [counter-app](https://counter-jeq2zqtn8-john-gils-projects.vercel.app/)
+* [counter-app](https://counter-app-gold-seven.vercel.app/)
 
 
 ## 🔗 Links
